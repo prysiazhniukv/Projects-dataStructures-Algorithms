@@ -1,0 +1,18 @@
+Parent:     Item:       Price:
+Book        LP          5$
+Book        Poster      0$
+Poster      Guitar      30$
+Poster      Drums       35$
+LP          Guitar      15$
+LP          Drums       20$
+Guitar      Piano       20$
+Drums       Piano       10$
+
+LP > Piano = 35
+Book >(5$)> LP >(15$)> Guitar >(20$)> Piano = 40$
+Book >(5$)> LP >20$> Drums >(10$)> Piano = 35$
+
+
+
+
+
